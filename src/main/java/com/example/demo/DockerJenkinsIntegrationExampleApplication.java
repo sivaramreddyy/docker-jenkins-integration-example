@@ -11,7 +11,7 @@ public class DockerJenkinsIntegrationExampleApplication {
 
 	@GetMapping("/portal")
 	public String getMessage() {
-		return "Spring Jenkin Docker Integration !!!";
+		return "Spring Jenkin Docker Integration  example!!!";
 		
 	}
 	public static void main(String[] args) {
